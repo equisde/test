@@ -1,0 +1,9 @@
+Building Dogit
+
+See doc/readme-qt.rst for instructions on building Dogit QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Dogit.
+
+See doc/build-*.txt for instructions on building Dogitd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Dogit.

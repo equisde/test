@@ -1,0 +1,26 @@
+src/*.exe
+src/Dogit
+src/Dogitd
+src/test_Dogit
+src/build.h
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.Dogit
+#compilation and Qt preprocessor part
+*.qm
+Makefile
+Dogit-qt
+#resources cpp
+qrc_*.cpp
+#qt creator
+*.pro.user
+#mac specific
+.DS_Store
+build
+
+!src/leveldb/Makefile
