@@ -7,7 +7,7 @@ cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP
 software written by Thomas Bernard.
 
 
-See readme-qt.rst for instructions on building Dogit QT, the
+See readme-qt.rst for instructions on building Foxy QT, the
 graphical user interface.
 
 WINDOWS BUILD NOTES
@@ -76,9 +76,9 @@ make -f Makefile.mingw
 mkdir miniupnpc
 cp *.h miniupnpc/
 
-Dogit
+Foxy
 -------
 DOS prompt:
-cd \Dogit\src
+cd \Foxy\src
 mingw32-make -f makefile.mingw
-strip Dogitd.exe
+strip Foxyd.exe

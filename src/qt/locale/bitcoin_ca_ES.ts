@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Dogit</source>
-        <translation>Sobre Dogit</translation>
+        <source>About Foxy</source>
+        <translation>Sobre Foxy</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Dogit&lt;/b&gt; version</source>
-        <translation>versió &lt;b&gt;Dogit&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Foxy&lt;/b&gt; version</source>
+        <translation>versió &lt;b&gt;Foxy&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Dogit developers</source>
+Copyright © 2014 The Foxy developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Dogit developers</translation>
+Copyright © 2014 The Foxy developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Dogit addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Aquestes són les teves adreces de Dogit per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
+        <source>These are your Foxy addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Aquestes són les teves adreces de Foxy per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Dogit address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça Dogit</translation>
+        <source>Sign a message to prove you own a Foxy address</source>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça Foxy</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Dogit address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça Dogit especificada.</translation>
+        <source>Verify a message to ensure it was signed with a specified Foxy address</source>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça Foxy especificada.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>Dogit will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Dogit tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació del seu moneder no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
+        <source>Foxy will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Foxy tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació del seu moneder no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -372,8 +372,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Dogit</source>
-        <translation>Mostra informació sobre Dogit</translation>
+        <source>Show information about Foxy</source>
+        <translation>Mostra informació sobre Foxy</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -422,13 +422,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a Dogit address</source>
-        <translation>Enviar monedes a una adreça Dogit</translation>
+        <source>Send coins to a Foxy address</source>
+        <translation>Enviar monedes a una adreça Foxy</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for Dogit</source>
-        <translation>Modificar les opcions de configuració per a Dogit</translation>
+        <source>Modify configuration options for Foxy</source>
+        <translation>Modificar les opcions de configuració per a Foxy</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -467,8 +467,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>Dogit</source>
-        <translation>Dogit</translation>
+        <source>Foxy</source>
+        <translation>Foxy</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -477,8 +477,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About Dogit</source>
-        <translation>&amp;Sobre Dogit</translation>
+        <source>&amp;About Foxy</source>
+        <translation>&amp;Sobre Foxy</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -534,13 +534,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Dogit client</source>
-        <translation>Client Dogit</translation>
+        <source>Foxy client</source>
+        <translation>Client Foxy</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Dogit network</source>
-        <translation><numerusform>%n conexió activa a la xarxa Dogit</numerusform><numerusform>%n conexions actives a la xarxa Dogit</numerusform></translation>
+        <source>%n active connection(s) to Foxy network</source>
+        <translation><numerusform>%n conexió activa a la xarxa Foxy</numerusform><numerusform>%n conexions actives a la xarxa Foxy</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -650,8 +650,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Dogit address or malformed URI parameters.</source>
-        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça Dogit no vàlida o paràmetres URI malformats.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Foxy address or malformed URI parameters.</source>
+        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça Foxy no vàlida o paràmetres URI malformats.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -710,8 +710,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Dogit can no longer continue safely and will quit.</source>
-        <translation>S&apos;ha produït un error fatal. Dogit ja no pot continuar de forma segura i es tancarà.</translation>
+        <source>A fatal error occurred. Foxy can no longer continue safely and will quit.</source>
+        <translation>S&apos;ha produït un error fatal. Foxy ja no pot continuar de forma segura i es tancarà.</translation>
     </message>
 </context>
 <context>
@@ -1044,8 +1044,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Dogit address.</source>
-        <translation>La direcció introduïda &quot;%1&quot; no és una adreça Dogit vàlida.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Foxy address.</source>
+        <translation>La direcció introduïda &quot;%1&quot; no és una adreça Foxy vàlida.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1063,8 +1063,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Dogit-Qt</source>
-        <translation>Dogit-Qt</translation>
+        <source>Foxy-Qt</source>
+        <translation>Foxy-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1136,13 +1136,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Dogit after logging in to the system.</source>
-        <translation>Inicia automàticament Dogit després d&apos;entrar en el sistema.</translation>
+        <source>Automatically start Foxy after logging in to the system.</source>
+        <translation>Inicia automàticament Foxy després d&apos;entrar en el sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Dogit on system login</source>
-        <translation>&amp;Iniciar Dogit amb l&apos;inici de sessió</translation>
+        <source>&amp;Start Foxy on system login</source>
+        <translation>&amp;Iniciar Foxy amb l&apos;inici de sessió</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1161,8 +1161,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Dogit client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Obrir automàticament el port de client Dogit en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
+        <source>Automatically open the Foxy client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Obrir automàticament el port de client Foxy en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1171,8 +1171,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Dogit network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connecteu-vos a la xarxa Dogit través d&apos;un proxy SOCKS (per exemple, quan es connecta a través de Tor).</translation>
+        <source>Connect to the Foxy network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connecteu-vos a la xarxa Foxy través d&apos;un proxy SOCKS (per exemple, quan es connecta a través de Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1246,8 +1246,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Dogit.</source>
-        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar Dogit.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Foxy.</source>
+        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar Foxy.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1261,8 +1261,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Dogit addresses in the transaction list or not.</source>
-        <translation>Per mostrar Dogit adreces a la llista de transaccions o no.</translation>
+        <source>Whether to show Foxy addresses in the transaction list or not.</source>
+        <translation>Per mostrar Foxy adreces a la llista de transaccions o no.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1308,8 +1308,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Dogit.</source>
-        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar Dogit.</translation>
+        <source>This setting will take effect after restarting Foxy.</source>
+        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar Foxy.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1327,8 +1327,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Dogit network after a connection is established, but this process has not completed yet.</source>
-        <translation>La informació mostrada pot estar fora de data. El seu moneder es sincronitza automàticament amb la xarxa Dogit després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Foxy network after a connection is established, but this process has not completed yet.</source>
+        <translation>La informació mostrada pot estar fora de data. El seu moneder es sincronitza automàticament amb la xarxa Foxy després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1543,8 +1543,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Dogit-Qt help message to get a list with possible Dogit command-line options.</source>
-        <translation>Mostra el missatge d&apos;ajuda de Dogit-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres Dogit.</translation>
+        <source>Show the Foxy-Qt help message to get a list with possible Foxy command-line options.</source>
+        <translation>Mostra el missatge d&apos;ajuda de Foxy-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres Foxy.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1563,13 +1563,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Dogit - Debug window</source>
-        <translation>Dogit - Finestra Depuració</translation>
+        <source>Foxy - Debug window</source>
+        <translation>Foxy - Finestra Depuració</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Dogit Core</source>
-        <translation>Nucli Dogit</translation>
+        <source>Foxy Core</source>
+        <translation>Nucli Foxy</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1578,8 +1578,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Dogit debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Obriu el fitxer de registre de depuració Dogit des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
+        <source>Open the Foxy debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Obriu el fitxer de registre de depuració Foxy des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1588,8 +1588,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Dogit RPC console.</source>
-        <translation>Benvingut a la consola RPC de Dogit.</translation>
+        <source>Welcome to the Foxy RPC console.</source>
+        <translation>Benvingut a la consola RPC de Foxy.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1747,8 +1747,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Dogit address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introdueix una adreça Dogit (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Foxy address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introdueix una adreça Foxy (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1847,8 +1847,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Dogit address</source>
-        <translation>ADVERTÈNCIA: Direcció Dogit invàlida</translation>
+        <source>WARNING: Invalid Foxy address</source>
+        <translation>ADVERTÈNCIA: Direcció Foxy invàlida</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1921,8 +1921,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Dogit address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introdueix una adreça Dogit (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Foxy address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introdueix una adreça Foxy (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1982,8 +1982,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Dogit address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça Dogit</translation>
+        <source>Sign the message to prove you own this Foxy address</source>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça Foxy</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2014,8 +2014,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Dogit address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça Dogit especificada.</translation>
+        <source>Verify the message to ensure it was signed with the specified Foxy address</source>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça Foxy especificada.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2025,8 +2025,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Dogit address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introdueix una adreça Dogit (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Foxy address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introdueix una adreça Foxy (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2035,8 +2035,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Dogit signature</source>
-        <translation>Introduïu la signatura Dogit</translation>
+        <source>Enter Foxy signature</source>
+        <translation>Introduïu la signatura Foxy</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2606,8 +2606,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Dogit version</source>
-        <translation>versió Dogit</translation>
+        <source>Foxy version</source>
+        <translation>versió Foxy</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2616,8 +2616,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or Dogitd</source>
-        <translation>Enviar comandes a -server o Dogitd</translation>
+        <source>Send command to -server or Foxyd</source>
+        <translation>Enviar comandes a -server o Foxyd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2636,13 +2636,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: Dogit.conf)</source>
-        <translation>Especifiqueu el fitxer de configuració (per defecte: Dogit.conf)</translation>
+        <source>Specify configuration file (default: Foxy.conf)</source>
+        <translation>Especifiqueu el fitxer de configuració (per defecte: Foxy.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Dogitd.pid)</source>
-        <translation>Especificar arxiu pid (per defecte: Dogitd.pid)</translation>
+        <source>Specify pid file (default: Foxyd.pid)</source>
+        <translation>Especificar arxiu pid (per defecte: Foxyd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2791,8 +2791,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Dogit will not work properly.</source>
-        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni Dogit no funcionarà correctament.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Foxy will not work properly.</source>
+        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni Foxy no funcionarà correctament.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2981,24 +2981,24 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=Dogitrpc
+rpcuser=Foxyrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Dogit Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Foxy Alert&quot; admin@foo.com
 </source>
         <translation>%s, ha d&apos;establir un rpcpassword al fitxer de configuració:
 %s
 Es recomana utilitzar la següent contrasenya aleatòria:
-rpcuser=Dogitrpc
+rpcuser=Foxyrpc
 rpcpassword=%s
 (No cal recordar aquesta contrasenya)
 El nom d&apos;usuari i contrasenya NO HA DE SER el mateix.
 Si no hi ha l&apos;arxiu, s&apos;ha de crear amb els permisos de només lectura per al propietari.
 També es recomana establir alertnotify per a que se li notifiquin els problemes;
-per exemple: alertnotify=echo %%s | mail -s &quot;Dogit Alert&quot; admin@foo.com
+per exemple: alertnotify=echo %%s | mail -s &quot;Foxy Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3124,13 +3124,13 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Dogit is probably already running.</source>
-        <translation>No es pot obtenir un bloqueig en el directori de dades %s. Dogit probablement ja estigui en funcionament.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Foxy is probably already running.</source>
+        <translation>No es pot obtenir un bloqueig en el directori de dades %s. Foxy probablement ja estigui en funcionament.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Dogit</source>
-        <translation>Dogit</translation>
+        <source>Foxy</source>
+        <translation>Foxy</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3164,13 +3164,13 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Dogit</source>
-        <translation>Error en carregar wallet.dat: El moneder requereix la versió més recent de Dogit</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Foxy</source>
+        <translation>Error en carregar wallet.dat: El moneder requereix la versió més recent de Foxy</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Dogit to complete</source>
-        <translation>El moneder necessita ser reescrita: reiniciar Dogit per completar</translation>
+        <source>Wallet needed to be rewritten: restart Foxy to complete</source>
+        <translation>El moneder necessita ser reescrita: reiniciar Foxy per completar</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3239,8 +3239,8 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Dogit is probably already running.</source>
-        <translation>No es pot enllaçar a %s en aquest equip. Dogit probablement ja estigui en funcionament.</translation>
+        <source>Unable to bind to %s on this computer. Foxy is probably already running.</source>
+        <translation>No es pot enllaçar a %s en aquest equip. Foxy probablement ja estigui en funcionament.</translation>
     </message>
     <message>
         <location line="-97"/>

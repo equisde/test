@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Dogit</source>
-        <translation>Tentang Dogit</translation>
+        <source>About Foxy</source>
+        <translation>Tentang Foxy</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Dogit&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Dogit&lt;/b&gt; versi</translation>
+        <source>&lt;b&gt;Foxy&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Foxy&lt;/b&gt; versi</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Dogit developers</source>
+Copyright © 2014 The Foxy developers</source>
         <translation>Copyright © 2009-2014 para pengembang Bitcoin
 Copyright © 2012-2014 para pengembang NovaCoin
-Copyright © 2014 para pengembang Dogit</translation>
+Copyright © 2014 para pengembang Foxy</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Dogit addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Ini adalah alamat Dogit Anda untuk menerima pembayaran. Anda dapat memberikan alamat yang berbeda untuk setiap pengirim, sehingga Anda dapat melacak siapa yang membayar Anda.</translation>
+        <source>These are your Foxy addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Ini adalah alamat Foxy Anda untuk menerima pembayaran. Anda dapat memberikan alamat yang berbeda untuk setiap pengirim, sehingga Anda dapat melacak siapa yang membayar Anda.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Dogit address</source>
-        <translation>Masukan  pesan untuk membuktikan bahwa anda telah mempunyai adress Dogit</translation>
+        <source>Sign a message to prove you own a Foxy address</source>
+        <translation>Masukan  pesan untuk membuktikan bahwa anda telah mempunyai adress Foxy</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,7 +90,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Dogit address</source>
+        <source>Verify a message to ensure it was signed with a specified Foxy address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>Dogit will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Dogit akan ditutup untuk menyelesaikan proses enkripsi. Ingat bahwa dompet Anda tidak bisa di lindungi dengan enkripsi sepenuhny dari pencurian melalui infeksi malware di komputer Anda.</translation>
+        <source>Foxy will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Foxy akan ditutup untuk menyelesaikan proses enkripsi. Ingat bahwa dompet Anda tidak bisa di lindungi dengan enkripsi sepenuhny dari pencurian melalui infeksi malware di komputer Anda.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -372,8 +372,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Dogit</source>
-        <translation>Tunjukkan informasi tentang Dogit</translation>
+        <source>Show information about Foxy</source>
+        <translation>Tunjukkan informasi tentang Foxy</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -422,13 +422,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a Dogit address</source>
-        <translation>Kirim koin ke alamat Dogit</translation>
+        <source>Send coins to a Foxy address</source>
+        <translation>Kirim koin ke alamat Foxy</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for Dogit</source>
-        <translation>Memodifikasi opsi aturan untuk Dogit</translation>
+        <source>Modify configuration options for Foxy</source>
+        <translation>Memodifikasi opsi aturan untuk Foxy</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -467,8 +467,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>Dogit</source>
-        <translation>Dogit (CoinHitam)</translation>
+        <source>Foxy</source>
+        <translation>Foxy (CoinHitam)</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -477,8 +477,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About Dogit</source>
-        <translation>&amp;Tentang Dogit</translation>
+        <source>&amp;About Foxy</source>
+        <translation>&amp;Tentang Foxy</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -534,12 +534,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Dogit client</source>
-        <translation>Klien Dogit</translation>
+        <source>Foxy client</source>
+        <translation>Klien Foxy</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Dogit network</source>
+        <source>%n active connection(s) to Foxy network</source>
         <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
     <message>
@@ -654,7 +654,7 @@ Alamat: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Dogit address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid Foxy address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -714,7 +714,7 @@ Alamat: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Dogit can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. Foxy can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1034,7 +1034,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Dogit address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid Foxy address.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1053,8 +1053,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Dogit-Qt</source>
-        <translation>Dogit-Qt</translation>
+        <source>Foxy-Qt</source>
+        <translation>Foxy-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1126,12 +1126,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Dogit after logging in to the system.</source>
+        <source>Automatically start Foxy after logging in to the system.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Dogit on system login</source>
+        <source>&amp;Start Foxy on system login</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1151,7 +1151,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Dogit client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the Foxy client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1161,7 +1161,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Dogit network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the Foxy network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1236,7 +1236,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Dogit.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting Foxy.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1251,7 +1251,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Dogit addresses in the transaction list or not.</source>
+        <source>Whether to show Foxy addresses in the transaction list or not.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1298,7 +1298,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Dogit.</source>
+        <source>This setting will take effect after restarting Foxy.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1317,7 +1317,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Dogit network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Foxy network after a connection is established, but this process has not completed yet.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1533,7 +1533,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Dogit-Qt help message to get a list with possible Dogit command-line options.</source>
+        <source>Show the Foxy-Qt help message to get a list with possible Foxy command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1553,13 +1553,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>Dogit - Debug window</source>
+        <source>Foxy - Debug window</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+25"/>
-        <source>Dogit Core</source>
-        <translation>Inti Dogit</translation>
+        <source>Foxy Core</source>
+        <translation>Inti Foxy</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1568,7 +1568,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Dogit debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Foxy debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1578,7 +1578,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Dogit RPC console.</source>
+        <source>Welcome to the Foxy RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1737,7 +1737,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Dogit address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a Foxy address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1837,7 +1837,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Dogit address</source>
+        <source>WARNING: Invalid Foxy address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1911,7 +1911,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Dogit address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a Foxy address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1972,7 +1972,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Dogit address</source>
+        <source>Sign the message to prove you own this Foxy address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2004,7 +2004,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Dogit address</source>
+        <source>Verify the message to ensure it was signed with the specified Foxy address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2015,7 +2015,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Dogit address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a Foxy address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2025,7 +2025,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Dogit signature</source>
+        <source>Enter Foxy signature</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2596,7 +2596,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Dogit version</source>
+        <source>Foxy version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2606,7 +2606,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or Dogitd</source>
+        <source>Send command to -server or Foxyd</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2626,12 +2626,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: Dogit.conf)</source>
+        <source>Specify configuration file (default: Foxy.conf)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Dogitd.pid)</source>
+        <source>Specify pid file (default: Foxyd.pid)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2781,7 +2781,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Dogit will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Foxy will not work properly.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2970,13 +2970,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=Dogitrpc
+rpcuser=Foxyrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Dogit Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Foxy Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -3102,13 +3102,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogit Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Dogit is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  Foxy is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="-98"/>
-        <source>Dogit</source>
-        <translation>Dogit</translation>
+        <source>Foxy</source>
+        <translation>Foxy</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3142,12 +3142,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogit Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Dogit</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Foxy</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Dogit to complete</source>
+        <source>Wallet needed to be rewritten: restart Foxy to complete</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3217,7 +3217,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Dogit Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Dogit is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Foxy is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

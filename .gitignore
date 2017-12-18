@@ -1,7 +1,7 @@
 src/*.exe
-src/Dogit
-src/Dogitd
-src/test_Dogit
+src/Foxy
+src/Foxyd
+src/test_Foxy
 src/build.h
 .*.swp
 *.*~*
@@ -10,11 +10,11 @@ src/build.h
 *.orig
 *.o
 *.patch
-.Dogit
+.Foxy
 #compilation and Qt preprocessor part
 *.qm
 Makefile
-Dogit-qt
+Foxy-qt
 #resources cpp
 qrc_*.cpp
 #qt creator

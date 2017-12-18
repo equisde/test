@@ -1,4 +1,4 @@
-IDI_ICON1 ICON DISCARDABLE "icons/Dogit.ico"
+IDI_ICON1 ICON DISCARDABLE "icons/Foxy.ico"
 
 #include <windows.h>             // needed for VERSIONINFO
 #include "../../clientversion.h" // holds the needed client version information
@@ -18,14 +18,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Dogit"
-            VALUE "FileDescription",    "Dogit-Qt (OSS GUI client for Dogit)"
+            VALUE "CompanyName",        "Foxy"
+            VALUE "FileDescription",    "Foxy-Qt (OSS GUI client for Foxy)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "Dogit-qt"
-            VALUE "LegalCopyright",     "2009-2014 The Bitcoin developers, 2012-2014 The NovaCoin & PPCoin developers, 2017 The Dogit developers"
+            VALUE "InternalName",       "Foxy-qt"
+            VALUE "LegalCopyright",     "2009-2014 The Bitcoin developers, 2012-2014 The NovaCoin & PPCoin developers, 2017 The Foxy developers"
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "Dogit-qt.exe"
-            VALUE "ProductName",        "Dogit-Qt"
+            VALUE "OriginalFilename",   "Foxy-qt.exe"
+            VALUE "ProductName",        "Foxy-Qt"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

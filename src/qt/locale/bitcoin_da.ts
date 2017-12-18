@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Dogit</source>
-        <translation>Om Dogit</translation>
+        <source>About Foxy</source>
+        <translation>Om Foxy</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Dogit&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Dogit&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;Foxy&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Foxy&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Dogit developers</source>
+Copyright © 2014 The Foxy developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Dogit developers</translation>
+Copyright © 2014 The Foxy developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Dogit addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dette er dine Dogit adresser til at modtage betalinger. Du ønsker måske at give en anden en til af hver afsender, så du kan holde styr på hvem der betaler dig.</translation>
+        <source>These are your Foxy addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dette er dine Foxy adresser til at modtage betalinger. Du ønsker måske at give en anden en til af hver afsender, så du kan holde styr på hvem der betaler dig.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Dogit address</source>
-        <translation>Signerer en meddelelse for at bevise du ejer en Dogit adresse</translation>
+        <source>Sign a message to prove you own a Foxy address</source>
+        <translation>Signerer en meddelelse for at bevise du ejer en Foxy adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Dogit address</source>
-        <translation>Bekræft en meddelelse for at sikre, den blev underskrevet med en specificeret Dogit adresse</translation>
+        <source>Verify a message to ensure it was signed with a specified Foxy address</source>
+        <translation>Bekræft en meddelelse for at sikre, den blev underskrevet med en specificeret Foxy adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-58"/>
-        <source>Dogit will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Dogit lukker nu for at afslutte krypteringen. Husk at en krypteret  tegnebog ikke fuldt ud beskytter dine mønter mod at blive stjålet af malware som har inficeret din computer.</translation>
+        <source>Foxy will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Foxy lukker nu for at afslutte krypteringen. Husk at en krypteret  tegnebog ikke fuldt ud beskytter dine mønter mod at blive stjålet af malware som har inficeret din computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Dogit</source>
-        <translation>Vis oplysninger om Dogit</translation>
+        <source>Show information about Foxy</source>
+        <translation>Vis oplysninger om Foxy</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a Dogit address</source>
-        <translation>Send mønter til en Dogit adresse</translation>
+        <source>Send coins to a Foxy address</source>
+        <translation>Send mønter til en Foxy adresse</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for Dogit</source>
-        <translation>Ændre indstillingsmuligheder for Dogit</translation>
+        <source>Modify configuration options for Foxy</source>
+        <translation>Ændre indstillingsmuligheder for Foxy</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-200"/>
-        <source>Dogit</source>
-        <translation>Dogit</translation>
+        <source>Foxy</source>
+        <translation>Foxy</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About Dogit</source>
-        <translation>&amp;Om Dogit</translation>
+        <source>&amp;About Foxy</source>
+        <translation>&amp;Om Foxy</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Dogit client</source>
-        <translation>Dogit klient</translation>
+        <source>Foxy client</source>
+        <translation>Foxy klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Dogit network</source>
-        <translation><numerusform>%n aktiv forbindelse til Dogit netværk</numerusform><numerusform>%n aktive forbindelser til Dogit netværk</numerusform></translation>
+        <source>%n active connection(s) to Foxy network</source>
+        <translation><numerusform>%n aktiv forbindelse til Foxy netværk</numerusform><numerusform>%n aktive forbindelser til Foxy netværk</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -659,8 +659,8 @@ Adresse: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Dogit address or malformed URI parameters.</source>
-        <translation>URI kan ikke tolkes! Dette kan skyldes en ugyldig Dogit adresse eller misdannede URI parametre.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Foxy address or malformed URI parameters.</source>
+        <translation>URI kan ikke tolkes! Dette kan skyldes en ugyldig Foxy adresse eller misdannede URI parametre.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -719,7 +719,7 @@ Adresse: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Dogit can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. Foxy can no longer continue safely and will quit.</source>
         <translation>Der opstod en fejl under forsøg på at gemme dataene i tegnebogen til den nye placering.</translation>
     </message>
 </context>
@@ -1053,8 +1053,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Dogit address.</source>
-        <translation>Den indtastede adresse &quot;%1&quot; er ikke en gyldig Dogit adresse.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Foxy address.</source>
+        <translation>Den indtastede adresse &quot;%1&quot; er ikke en gyldig Foxy adresse.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1072,8 +1072,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Dogit-Qt</source>
-        <translation>Dogit-Qt</translation>
+        <source>Foxy-Qt</source>
+        <translation>Foxy-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1145,13 +1145,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Dogit after logging in to the system.</source>
-        <translation>Automatisk start Dogit efter at have logget ind på systemet.</translation>
+        <source>Automatically start Foxy after logging in to the system.</source>
+        <translation>Automatisk start Foxy efter at have logget ind på systemet.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Dogit on system login</source>
-        <translation>&amp;Start Dogit ved systems login</translation>
+        <source>&amp;Start Foxy on system login</source>
+        <translation>&amp;Start Foxy ved systems login</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1170,8 +1170,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Dogit client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatisk åbne Dogit klient-port på routeren. Dette virker kun, når din router understøtter UPnP og er det er aktiveret.</translation>
+        <source>Automatically open the Foxy client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatisk åbne Foxy klient-port på routeren. Dette virker kun, når din router understøtter UPnP og er det er aktiveret.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1180,8 +1180,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Dogit network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Opret forbindelse til Dogit netværk via en SOCKS proxy (fx ved tilslutning gennem Tor).</translation>
+        <source>Connect to the Foxy network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Opret forbindelse til Foxy netværk via en SOCKS proxy (fx ved tilslutning gennem Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1255,8 +1255,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Dogit.</source>
-        <translation>Sproget i brugergrænsefladen kan indstilles her. Denne indstilling vil træde i kraft efter genstart af Dogit tegnebog.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Foxy.</source>
+        <translation>Sproget i brugergrænsefladen kan indstilles her. Denne indstilling vil træde i kraft efter genstart af Foxy tegnebog.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1270,8 +1270,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Dogit addresses in the transaction list or not.</source>
-        <translation>Få vist Dogit adresser på listen over transaktioner eller ej.</translation>
+        <source>Whether to show Foxy addresses in the transaction list or not.</source>
+        <translation>Få vist Foxy adresser på listen over transaktioner eller ej.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1317,8 +1317,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Dogit.</source>
-        <translation>Denne indstilling vil træde i kraft efter genstart af Dogit.</translation>
+        <source>This setting will take effect after restarting Foxy.</source>
+        <translation>Denne indstilling vil træde i kraft efter genstart af Foxy.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1336,8 +1336,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Dogit network after a connection is established, but this process has not completed yet.</source>
-        <translation>De viste oplysninger kan være forældet. Din tegnebog synkroniserer automatisk med Dogit netværket efter en forbindelse er etableret, men denne proces er ikke afsluttet endnu.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Foxy network after a connection is established, but this process has not completed yet.</source>
+        <translation>De viste oplysninger kan være forældet. Din tegnebog synkroniserer automatisk med Foxy netværket efter en forbindelse er etableret, men denne proces er ikke afsluttet endnu.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1552,8 +1552,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Dogit-Qt help message to get a list with possible Dogit command-line options.</source>
-        <translation>Vis Dogit-Qt hjælpe besked for at få en liste med mulige Dogit kommandolinjeparametre.</translation>
+        <source>Show the Foxy-Qt help message to get a list with possible Foxy command-line options.</source>
+        <translation>Vis Foxy-Qt hjælpe besked for at få en liste med mulige Foxy kommandolinjeparametre.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1572,13 +1572,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Dogit - Debug window</source>
-        <translation>Dogit - Debug vindue</translation>
+        <source>Foxy - Debug window</source>
+        <translation>Foxy - Debug vindue</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Dogit Core</source>
-        <translation>Dogit Kerne</translation>
+        <source>Foxy Core</source>
+        <translation>Foxy Kerne</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1587,8 +1587,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Dogit debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Åbn Dogit debug logfilen fra den nuværende data mappe. Dette kan tage et par sekunder for store logfiler.</translation>
+        <source>Open the Foxy debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Åbn Foxy debug logfilen fra den nuværende data mappe. Dette kan tage et par sekunder for store logfiler.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1597,8 +1597,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Dogit RPC console.</source>
-        <translation>Velkommen til Dogit RPC-konsol.</translation>
+        <source>Welcome to the Foxy RPC console.</source>
+        <translation>Velkommen til Foxy RPC-konsol.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1756,8 +1756,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Dogit address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Indtast en Dogit-adresse (f.eks B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Foxy address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Indtast en Foxy-adresse (f.eks B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1856,8 +1856,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Dogit address</source>
-        <translation>ADVARSEL: Ugyldig Dogit adresse</translation>
+        <source>WARNING: Invalid Foxy address</source>
+        <translation>ADVARSEL: Ugyldig Foxy adresse</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1930,8 +1930,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Dogit address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Indtast en Dogit-adresse (f.eks B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Foxy address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Indtast en Foxy-adresse (f.eks B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1991,8 +1991,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Dogit address</source>
-        <translation>Underskriv brevet for at bevise du ejer denne Dogit adresse</translation>
+        <source>Sign the message to prove you own this Foxy address</source>
+        <translation>Underskriv brevet for at bevise du ejer denne Foxy adresse</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2023,8 +2023,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Dogit address</source>
-        <translation>Kontroller meddelelsen for at sikre, at den blev indgået med den angivne Dogit adresse</translation>
+        <source>Verify the message to ensure it was signed with the specified Foxy address</source>
+        <translation>Kontroller meddelelsen for at sikre, at den blev indgået med den angivne Foxy adresse</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2034,8 +2034,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Dogit address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Indtast en Dogit-adresse (f.eks B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Foxy address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Indtast en Foxy-adresse (f.eks B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2044,8 +2044,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Dogit signature</source>
-        <translation>Indtast Dogit underskrift</translation>
+        <source>Enter Foxy signature</source>
+        <translation>Indtast Foxy underskrift</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2615,8 +2615,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Dogit version</source>
-        <translation>Dogit version</translation>
+        <source>Foxy version</source>
+        <translation>Foxy version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2625,8 +2625,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or Dogitd</source>
-        <translation>Send kommando til-server eller Dogitd</translation>
+        <source>Send command to -server or Foxyd</source>
+        <translation>Send kommando til-server eller Foxyd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2645,13 +2645,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: Dogit.conf)</source>
-        <translation>Angiv konfigurationsfil (default: Dogit.conf)</translation>
+        <source>Specify configuration file (default: Foxy.conf)</source>
+        <translation>Angiv konfigurationsfil (default: Foxy.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Dogitd.pid)</source>
-        <translation>Angiv pid fil (standard: Dogitd.pid)</translation>
+        <source>Specify pid file (default: Foxyd.pid)</source>
+        <translation>Angiv pid fil (standard: Foxyd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2800,8 +2800,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Dogit will not work properly.</source>
-        <translation>Advarsel: Kontroller venligst, at computerens dato og klokkeslæt er korrekt! Hvis dit ur er forkert vil Dogit ikke fungere korrekt.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Foxy will not work properly.</source>
+        <translation>Advarsel: Kontroller venligst, at computerens dato og klokkeslæt er korrekt! Hvis dit ur er forkert vil Foxy ikke fungere korrekt.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2990,24 +2990,24 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=Dogitrpc
+rpcuser=Foxyrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Dogit Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Foxy Alert&quot; admin@foo.com
 </source>
         <translation>% s, skal du indstille et rpcpassword i konfigurationsfilen: 
 % s 
 Det anbefales at bruge følgende tilfældig adgangskode: 
-rpcuser = Dogitrpc  
+rpcuser = Foxyrpc  
 rpcpassword =% s  
 (du behøver ikke at huske denne adgangskode)  
 Brugernavn og adgangskode må ikke være den samme.  
 Hvis filen ikke findes, skal du oprette den med filtilladelser ejer-læsbar-kun. 
 Det kan også anbefales at sætte alertnotify så du får besked om problemer; 
-for eksempel: alertnotify = echo%% s | mail-s &quot;Dogit Alert&quot; admin@foo.com 
+for eksempel: alertnotify = echo%% s | mail-s &quot;Foxy Alert&quot; admin@foo.com 
 </translation>
     </message>
     <message>
@@ -3132,13 +3132,13 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;Dogit Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Dogit is probably already running.</source>
-        <translation>Kan ikke få en lås på data mappe% s. Dogit kører sikkert allerede.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Foxy is probably already running.</source>
+        <translation>Kan ikke få en lås på data mappe% s. Foxy kører sikkert allerede.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Dogit</source>
-        <translation>Dogit</translation>
+        <source>Foxy</source>
+        <translation>Foxy</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3172,13 +3172,13 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;Dogit Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Dogit</source>
-        <translation>Fejl ved indlæsning af wallet.dat: Wallet kræver en nyere version af Dogit</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Foxy</source>
+        <translation>Fejl ved indlæsning af wallet.dat: Wallet kræver en nyere version af Foxy</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Dogit to complete</source>
-        <translation>Det er nødvendig for wallet at blive omskrevet: Genstart Dogit for fuldføre</translation>
+        <source>Wallet needed to be rewritten: restart Foxy to complete</source>
+        <translation>Det er nødvendig for wallet at blive omskrevet: Genstart Foxy for fuldføre</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3247,8 +3247,8 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;Dogit Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Dogit is probably already running.</source>
-        <translation>Kunne ikke binde sig til% s på denne computer. Dogit kører sikkert allerede.</translation>
+        <source>Unable to bind to %s on this computer. Foxy is probably already running.</source>
+        <translation>Kunne ikke binde sig til% s på denne computer. Foxy kører sikkert allerede.</translation>
     </message>
     <message>
         <location line="-97"/>
