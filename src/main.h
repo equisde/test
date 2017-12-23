@@ -32,8 +32,8 @@ static const int LAST_POW_BLOCK_V1 = 10000;
 static const int POW_RE_ENABLE = 14000;
 // static const int LAST_POW_BLOCK = 9999999999;
 
-static const unsigned int FORK_TIME = 1508371200; // Thursday, October 19, 2017 12:00:00 AM GMT. Reject v13 clients
-static const unsigned int FORK_TIME_2 = 1508976000; // Thursday, October 26, 2017 12:00:00 AM GMT. Reject all older clients
+static const unsigned int FORK_TIME = 1513937040; // Thursday, October 19, 2017 12:00:00 AM GMT. Reject v13 clients
+static const unsigned int FORK_TIME_2 = 1513937040; // Thursday, October 26, 2017 12:00:00 AM GMT. Reject all older clients
 
 /** The maximum allowed size for a serialized block, in bytes (network rule) */
 static const unsigned int MAX_BLOCK_SIZE = 1000000;
@@ -59,8 +59,8 @@ static const unsigned int LOCKTIME_THRESHOLD = 500000000; // Tue Nov  5 00:53:20
 
 static const int64_t COIN_YEAR_REWARD = 1000 * CENT;
 
-static const uint256 hashGenesisBlock("0x00000a9149275e3a749188a82cf230b325aa1d68eff3c2ecfe2274891dcfafd4");
-static const uint256 hashGenesisBlockTestNet("0x00000a9149275e3a749188a82cf230b325aa1d68eff3c2ecfe2274891dcfafd4");
+static const uint256 hashGenesisBlock("0x0000028d87519684e99e801cd399e3ef9d126e701fe0f8feda535d8b9143b17a");
+static const uint256 hashGenesisBlockTestNet("0x0000028d87519684e99e801cd399e3ef9d126e701fe0f8feda535d8b9143b17a");
 
 inline int64_t PastDrift(int64_t nTime)   { return nTime - 10 * 60; } // up to 10 minutes from the past
 inline int64_t FutureDrift(int64_t nTime) { return nTime + 10 * 60; } // up to 10 minutes from the future
