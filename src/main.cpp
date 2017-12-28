@@ -1016,17 +1016,17 @@ int64_t GetProofOfWorkReward(int nHeight, int64_t nFees)
 
             else if(nBestHeight <= 10000)
             {
-            nSubsidy = 50 * COIN;
+            nSubsidy = 500 * COIN;
             }
 
-            else if(nBestHeight <= 14000)
+            else if(nBestHeight <= 10000)
             {
 		    nSubsidy >>= nSubsidy /1000000;  // code error :p
             }
 	
-            else if(nBestHeight > 14000)
+            else if(nBestHeight > 10000)
             {
-		    nSubsidy >>= (nHeight / 1000000);  // 100 coins halving every 1 mill blocks
+		    nSubsidy >>= (nHeight / 100000);  // 100 coins halving every 1 mill blocks
             }
 
     if (fDebug && GetBoolArg("-printcreation"))
